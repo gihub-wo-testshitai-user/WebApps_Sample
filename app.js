@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 // ルート
 app.get('/', (req, res) => {
-    res.send('Hello Azure Web Apps! 🚀 Modify 2026/4/4');
+    res.send('Hello Azure Web Apps! 🚀 Modify 2026/4/10');
 });
 
 // ヘルスチェック用
